@@ -1,5 +1,3 @@
-# Olá! Me chamo Thales, bem-vindo ao meu perfil. 👋
-
 ![Thales-GIF](https://github.com/thaleslimasx/thaleslimasx/blob/main/thales.gif)
 
 ##
